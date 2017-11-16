@@ -274,7 +274,7 @@ module.exports = {
         ├── page.jsx
 				└── viewModel.js
 	└── index.html
-	└── main.tsx
+	└── main.jsx
 ```
 
 - Let's add a basic "hello world" to our project. In _page.jsx_, add the following code:
@@ -287,7 +287,7 @@ export const MemberListPage = () => (
 );
 ```
 
-- Then, let's add our page to our container. To do so, _container.tsx_ should have:
+- Then, let's add our page to our container. To do so, _container.jsx_ should have:
 
 ```javascript
 import * as React from 'react';
