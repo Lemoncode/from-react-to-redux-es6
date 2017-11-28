@@ -268,13 +268,13 @@ module.exports = {
 .
 └── src/
     └── pages/
-		└── members/
-				├── container.jsx
-				├── index.js
+    └── members/
+        ├── container.jsx
+        ├── index.js
         ├── page.jsx
-				└── viewModel.js
-	└── index.html
-	└── main.jsx
+        └── viewModel.js
+  └── index.html
+  └── main.jsx
 ```
 
 - Let's add a basic "hello world" to our project. In _page.jsx_, add the following code:
