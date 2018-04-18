@@ -270,7 +270,7 @@ module.exports = {
     └── pages/
 		└── members/
 				├── container.jsx
-				├── index.js
+				├── index.jsx
         ├── page.jsx
 				└── viewModel.js
 	└── index.html
